@@ -1,3 +1,7 @@
+**IMPORTANT**
+
+THIS MOD ISNT COMPLETED/IN ITS FINAL STAGE. EARLY DEVELOPMENT.
+
 # DimensionCraft
 
 DimensionCraft is a Minecraft Forge mod that adds exciting new dimensions and adventures to the game. Explore mysterious worlds, face unique challenges, and unlock powerful abilities!

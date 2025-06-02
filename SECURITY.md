@@ -21,5 +21,6 @@ Please include:
 - A clear description of the issue
 - Steps to reproduce (if applicable)
 - Potential impact
+- version
 
-We take all security issues seriously and will respond as quickly as possible. Thank you for helping keep DimensionCraft safe!
+We will aim to respond within **72 hours** and patch valid issues as quickly as possible.
